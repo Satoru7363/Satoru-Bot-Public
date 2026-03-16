@@ -11,5 +11,4 @@ cryptg
 aiohttp
 Pillow
 youtube-search-python
-wget
 requests
