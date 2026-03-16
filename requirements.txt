@@ -1,4 +1,4 @@
-telethon==1.36.0
+telethon==1.42.0
 pytz==2024.1
 yt-dlp==2025.01.01
 hijri-converter==2.3.1
